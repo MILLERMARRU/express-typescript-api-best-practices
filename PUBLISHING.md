@@ -46,7 +46,7 @@ git commit -m "feat: initial skill release - Express TypeScript API best practic
 - Code generation scripts"
 
 # Add remote origin
-git remote add origin https://github.com/YOUR_USERNAME/express-typescript-api-best-practices.git
+git remote add origin https://github.com/MILLERMARRU/express-typescript-api-best-practices.git
 
 # Push to GitHub
 git branch -M main
@@ -112,7 +112,7 @@ Initial release with:
 git push origin v1.0.0
 
 # Or create a release on GitHub UI:
-# https://github.com/YOUR_USERNAME/express-typescript-api-best-practices/releases/new
+# https://github.com/MILLERMARRU/express-typescript-api-best-practices/releases/new
 ```
 
 ### 6. Automatic Indexing
@@ -127,7 +127,7 @@ Once your repository is public and contains a valid `SKILL.md` file:
 
 Your skill will be accessible via:
 ```bash
-npx skills add YOUR_USERNAME/express-typescript-api-best-practices
+npx skills add MILLERMARRU/express-typescript-api-best-practices
 ```
 
 ### 7. Verify Installation
@@ -136,7 +136,7 @@ Test that your skill can be installed:
 
 ```bash
 # In a test directory
-npx skills add YOUR_USERNAME/express-typescript-api-best-practices
+npx skills add MILLERMARRU/express-typescript-api-best-practices
 
 # Check installation
 ls ~/.claude/skills/
@@ -153,8 +153,8 @@ Once published, promote your skill:
 4. **Add badges to README**:
 
 ```markdown
-[![Skills.sh](https://img.shields.io/badge/skills.sh-install-blue)](https://skills.sh/YOUR_USERNAME/express-typescript-api-best-practices)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/express-typescript-api-best-practices)](https://github.com/YOUR_USERNAME/express-typescript-api-best-practices)
+[![Skills.sh](https://img.shields.io/badge/skills.sh-install-blue)](https://skills.sh/MILLERMARRU/express-typescript-api-best-practices)
+[![GitHub stars](https://img.shields.io/github/stars/MILLERMARRU/express-typescript-api-best-practices)](https://github.com/MILLERMARRU/express-typescript-api-best-practices)
 ```
 
 ## Updating Your Skill
@@ -174,7 +174,7 @@ git push origin v1.1.0
 
 Users can update with:
 ```bash
-npx skills update YOUR_USERNAME/express-typescript-api-best-practices
+npx skills update MILLERMARRU/express-typescript-api-best-practices
 ```
 
 ## Best Practices for Skill Maintenance
@@ -308,7 +308,7 @@ Use **MIT License** for maximum adoption:
 ```markdown
 MIT License
 
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 Miller Marru
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 ```

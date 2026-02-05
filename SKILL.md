@@ -674,6 +674,8 @@ For detailed implementations and code examples, see:
 ---
 
 **Skill Version:** 1.0.0
-**Author:** Sistema Licorería Development Team
+**Author:** Miller Marru ([@MILLERMARRU](https://github.com/MILLERMARRU))
+**Contact:** millermarru4@gmail.com
+**Repository:** https://github.com/MILLERMARRU/express-typescript-api-best-practices
 **License:** MIT
 **Last Updated:** 2026-02-05

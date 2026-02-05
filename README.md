@@ -2,10 +2,11 @@
 
 > Professional-grade skill for building production-ready REST APIs with Express.js and TypeScript
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/your-repo/express-typescript-api-best-practices)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/MILLERMARRU/express-typescript-api-best-practices)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/MILLERMARRU/express-typescript-api-best-practices?style=social)](https://github.com/MILLERMARRU/express-typescript-api-best-practices/stargazers)
 
 ## 📋 Overview
 
@@ -30,11 +31,11 @@ This skill provides comprehensive guidance for building enterprise-grade REST AP
 
 ```bash
 # Using npx (recommended)
-npx skills add your-username/express-typescript-api-best-practices
+npx skills add MILLERMARRU/express-typescript-api-best-practices
 
 # Or install globally
 npm install -g skills-cli
-skills add your-username/express-typescript-api-best-practices
+skills add MILLERMARRU/express-typescript-api-best-practices
 ```
 
 ### Usage in Claude Code
@@ -301,14 +302,21 @@ REDIS_PORT=6379
 
 ## 📄 License
 
-MIT © Sistema Licorería Development Team
+MIT © Miller Marru
 
 ## 🙏 Acknowledgments
 
 This skill is based on real-world production code from enterprise-level projects, refined through years of experience building scalable REST APIs.
 
+## 📧 Contact
+
+- **Author**: Miller Marru
+- **Email**: millermarru4@gmail.com
+- **GitHub**: [@MILLERMARRU](https://github.com/MILLERMARRU)
+- **Repository**: [express-typescript-api-best-practices](https://github.com/MILLERMARRU/express-typescript-api-best-practices)
+
 ---
 
-**Made with ❤️ for the Claude Code community**
+**Developed by Miller Marru with ❤️ for the developer community**
 
-For questions, issues, or feedback, please open an issue on GitHub or contact the maintainers.
+For questions, issues, or feedback, please open an issue on [GitHub](https://github.com/MILLERMARRU/express-typescript-api-best-practices/issues) or contact me directly.
